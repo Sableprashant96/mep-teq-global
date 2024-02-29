@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.std-dark{
+    color: #634731;
+}
+
+.bg-std-dark {
+    background-color: #634731;
+}
+
+.std-light-bl{
+    color: #48aef8;
+}
+
+.bg-std-light-bl{
+    background-color: #4795CE;
+}
+.std-light-yl{
+    color: #F6AC3C;
+}
